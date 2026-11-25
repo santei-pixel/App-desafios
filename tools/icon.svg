@@ -1,0 +1,11 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 512 512">
+  <rect width="512" height="512" fill="#141210"/>
+  <circle cx="256" cy="236" r="150" fill="#c4261d"/>
+  <!-- ensō: círculo de pincel -->
+  <path d="M120 300 C 90 180, 190 90, 300 104 C 410 118, 446 236, 392 318 C 352 378, 268 400, 196 372"
+        fill="none" stroke="#f4efe4" stroke-width="26" stroke-linecap="round" opacity="0.95"/>
+  <!-- katana -->
+  <path d="M110 430 L 408 132" stroke="#f4efe4" stroke-width="10" stroke-linecap="round"/>
+  <path d="M110 430 L 160 380" stroke="#f4efe4" stroke-width="22" stroke-linecap="round"/>
+  <path d="M150 360 L 182 392" stroke="#d6a84a" stroke-width="12" stroke-linecap="round"/>
+</svg>
